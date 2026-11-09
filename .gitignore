@@ -1,0 +1,21 @@
+# Dependencies and local caches
+node_modules/
+.npm-cache/
+__pycache__/
+*.py[cod]
+*.log
+
+# Local development, test, and visual-QA artifacts
+_render_profile/
+shots/
+preview_frames/
+qa/
+capture.js
+evalshot.js
+
+# Release/archive artifacts
+*.zip
+
+# Operating-system files
+.DS_Store
+Thumbs.db
