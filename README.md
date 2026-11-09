@@ -9,13 +9,9 @@
 
 ## Live page
 
-After enabling GitHub Pages for this repository, the site will be available at:
+**https://xbtmania.github.io/voxel-paris-1888/**
 
-```
-https://<your-username>.github.io/voxel-paris-1888/
-```
-
-The suggested GitHub repository name is **`voxel-paris-1888`**. The deployable entry point is [`index.html`](index.html). A descriptive copy of the same self-contained page is also available as [`voxel-paris-1888.html`](voxel-paris-1888.html).
+The repository is **`xbtmania/voxel-paris-1888`**. The deployable entry point is [`index.html`](index.html). A descriptive copy of the same self-contained page is also available as [`voxel-paris-1888.html`](voxel-paris-1888.html).
 
 ## What is in the scene
 
@@ -78,7 +74,7 @@ A Pages workflow is included at [`.github/workflows/pages.yml`](.github/workflow
 2. Open **Settings → Pages**.
 3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
 4. In the **Actions** tab, run the “Deploy static site to Pages” workflow manually if the first push happened before Pages was enabled. Future pushes to `main` deploy automatically.
-5. The page will be published at `https://<username>.github.io/voxel-paris-1888/` (or the custom domain configured for the repository).
+5. The page is published at `https://xbtmania.github.io/voxel-paris-1888/` (or the custom domain configured for the repository).
 
 For a simpler branch-based deployment, choose **Deploy from a branch**, select **`main`** and **`/ (root)`** instead. The root [`index.html`](index.html) and [`.nojekyll`](.nojekyll) are already in place.
 
